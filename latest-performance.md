@@ -1,7 +1,3 @@
-========================================
-[DB CONFIG] LAZY INIT - Connecting to database: 'Nabzdyk_Ratings'
-[DB CONFIG] V2 Logic Enabled: 'undefined'
-========================================
 ### Weekly Audit (Feb 20 - Feb 28)
 | Ticker | Ref Price (Feb 20) | Close | Total Return |
 | :--- | :--- | :--- | :--- |
